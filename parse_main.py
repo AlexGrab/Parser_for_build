@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup
 from satisfaction_check import time_check, ads_in_profile
-#333
-#333
-#333
+
 HOST = 'https://www.olx.uz'
 def get_content(html):
     final_set = ""
